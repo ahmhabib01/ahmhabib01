@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&duration=4000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&multiline=true&width=900&height=150&lines="AHSAN+HABIB; OWNER+OF+BANGLADESH+CYBER+2.0" alt="Glowing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&duration=4000&pause=500&color=00FFFF&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=🔥+AHSAN+HABIB+🔥;OWNER+OF+BANGLADESH+CYBER+2.0" alt="Glowing Banner" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=WELCOME+TO+MY+CYBER+UNIVERSE&fontColor=ffffff&fontSize=50&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=250&section=header&text=WELCOME+TO+MY+CYBER+UNIVERSE&fontColor=0ff&fontSize=60&animation=twinkling&color=0:ff00ff,100:00ffff)" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ## 🌌 About Me
 <p align="center">
   👋 Hey! Ami <b>Ahsan Habib</b> <br>
-  🚀 Creator of <b>BDC CHAT BOT</b> | 💻 Cyber Explorer | 🎨 Mindblowing Projects | 🎵 Music + Code Lover
+  🚀 Owner of <b>Bangladesh Cyber 2.0</b> | 💻 Cyber Explorer | 🎨 Mindblowing Projects | 🎵 Music + Code Lover
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahsan-habib&show_icons=true&theme=radical&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsan-habib&theme=radical" />
@@ -57,12 +57,15 @@
 
 ---
 
-## 🌌 Fun Facts
+## 🌌 Fun Facts & Random Quotes
 - ☕ Coffee + Code = Life  
 - 🐧 Break Windows just to install Linux  
 - 🤯 Always cooking mindblowing ideas  
 - 🌙 Night owl programmer vibes  
 - 🎭 Mixing creativity + hacking + fun  
+<p align="center">
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
 
 ---
 
@@ -75,6 +78,4 @@
 
 <p align="center">
   Made with 💖 by <b>Ahsan Habib</b> | Keep Exploring the Cyber Universe 🌌
-</p>
-
 </p>
