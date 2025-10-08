@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&duration=4000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=AHSAN+HABIB; OWNER+OF+BANGLADESH+CYBER+2.0" alt="Glowing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&duration=4000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&multiline=true&width=900&height=150&lines="AHSAN+HABIB; OWNER+OF+BANGLADESH+CYBER+2.0" alt="Glowing Banner" />
 </p>
 
 <p align="center">
