@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&duration=4000&pause=500&color=00FFFF&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=🔥+AHSAN+HABIB+🔥;OWNER+OF+BANGLADESH+CYBER+2.0" alt="Glowing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=🔥+AHSAN+HABIB+🔥;OWNER+OF+BANGLADESH+CYBER+2.0" alt="Glowing Banner" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=250&section=header&text=WELCOME+TO+MY+CYBER+UNIVERSE&fontColor=0ff&fontSize=60&animation=twinkling&color=0:ff00ff,100:00ffff)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=WELCOME+TO+MY+CYBER+UNIVERSE&fontColor=00ffff&fontSize=45&animation=twinkling&color=0:ff00ff,100:00ffff" alt="Cyberpunk Capsule" />
 </p>
 
 ---
