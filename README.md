@@ -1,81 +1,159 @@
+<!-- ======================================================
+   ⚡ ULTIMATE ULTRA-MIND-BLOWING GITHUB PROFILE README
+   Author: Ahsan Habib — OWNER OF BANGLADESH CYBER 2.0
+   ====================================================== -->
+
+<!-- =========================
+     MATRIX BACKGROUND (GIF)
+   ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=🔥+AHSAN+HABIB+🔥;OWNER+OF+BANGLADESH+CYBER+2.0" alt="Glowing Banner" />
+  <img src="https://i.imgur.com/3ZQ3ZlT.gif" alt="matrix-rain" style="max-width:100%;height:auto;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.6)" />
+</p>
+
+<!-- =========================
+     GLITCH / TYPING NEON BANNER
+   ========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=54&duration=4500&pause=500&color=00ff99&background=000000&center=true&vCenter=true&multiline=true&width=1200&height=180&lines=⚡+AHSAN+HABIB+⚡;👑+OWNER+OF+BANGLADESH+CYBER+2.0+👑;🚀+ENTER+THE+CYBER+DIMENSION+🚀" alt="Ahsan Habib - Neon Typing" />
+</p>
+
+<!-- =========================
+     NEON CAPSULE HEADER
+   ========================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=WELCOME+TO+MY+CYBER+UNIVERSE&fontColor=00ff99&fontSize=40&animation=twinkling&color=0:000000,50:00ff99,100:000000" alt="capsule header" />
+</p>
+
+
+## 👋 Who am I (Hacker Console)
+```bash
+root@bangladesh-cyber:~# whoami
+Name : Ahsan Habib
+Title: OWNER OF BANGLADESH CYBER 2.0
+Role : Cyber Security Explorer | Dev | Creator
+Vibe : Midnight coder • Music + Code • Breaking limits
+Bhai 🙂 ekdom clear kore bolchi — GitHub profile jonne je file dorkar, oita ekta **matro file**:
+
+👉 `README.md`
+
+Ei `README.md` er moddhei ami sob code diye disi. Ei ekta file create kore paste korlei kaj shesh.
+Ar kono alada folder/file dorkar nai.
+
+---
+
+Here’s your **single file `README.md`** (copy–paste full block into `README.md`):
+
+````markdown
+# 🚀 AHSAN HABIB — OWNER OF BANGLADESH CYBER 2.0
+
+<p align="center">
+  <img src="https://i.imgur.com/3ZQ3ZlT.gif" alt="matrix-rain" style="max-width:100%;height:auto;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.6)" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=WELCOME+TO+MY+CYBER+UNIVERSE&fontColor=00ffff&fontSize=45&animation=twinkling&color=0:ff00ff,100:00ffff" alt="Cyberpunk Capsule" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=54&duration=4500&pause=500&color=00ff99&background=000000&center=true&vCenter=true&multiline=true&width=1200&height=180&lines=⚡+AHSAN+HABIB+⚡;👑+OWNER+OF+BANGLADESH+CYBER+2.0+👑;🚀+ENTER+THE+CYBER+DIMENSION+🚀" alt="Typing Banner" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=WELCOME+TO+MY+CYBER+UNIVERSE&fontColor=00ff99&fontSize=40&animation=twinkling&color=0:000000,50:00ff99,100:000000" />
 </p>
 
 ---
 
-## 🌌 About Me
+## 👋 Who am I (Hacker Console)
+```bash
+root@bangladesh-cyber:~# whoami
+Name : Ahsan Habib
+Title: OWNER OF BANGLADESH CYBER 2.0
+Role : Cyber Security Explorer | Dev | Creator
+Vibe : Midnight coder • Music + Code • Breaking limits
+````
+
+---
+
+## 🔭 What I build
+
+* **BDC CHAT BOT** — mindblowing AI chat agent
+* Security tools, scripts, web hacks (ethical)
+* Creative automation & playful tooling
+
+---
+
+## 🛠️ My Neon Arsenal
+
 <p align="center">
-  👋 Hey! Ami <b>Ahsan Habib</b> <br>
-  🚀 Owner of <b>Bangladesh Cyber 2.0</b> | 💻 Cyber Explorer | 🎨 Mindblowing Projects | 🎵 Music + Code Lover
+  <img src="https://skillicons.dev/icons?i=python,js,linux,bash,git,docker,html,css,kali,php,mysql&theme=dark" />
 </p>
 
 ---
 
-## 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFB000?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+## 📊 Cyber Activity
 
----
-
-## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsan-habib&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsan-habib&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsan-habib&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsan-habib&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsan-habib&bg_color=0d0f12&color=00ff99&line=00ffaa&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## 🎨 Featured Projects
+
 <p align="center">
   <a href="https://github.com/ahsan-habib/BDC-CHAT-BOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahsan-habib&repo=BDC-CHAT-BOT&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahsan-habib&repo=BDC-CHAT-BOT&theme=tokyonight" />
   </a>
-  <a href="https://github.com/ahsan-habib/SomeOtherProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahsan-habib&repo=SomeOtherProject&theme=radical" />
+  <a href="https://github.com/ahsan-habib/MindBlowingProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahsan-habib&repo=MindBlowingProject&theme=tokyonight" />
   </a>
 </p>
 
 ---
 
-## 🎵 Spotify Now Playing
+## 🎵 Cyber Soundtrack
+
 <p align="center">
-  <img src="https://spotify-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&theme=black&backgroundColor=0f0f0f" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00ff99&bar_color_cover=true" />
 </p>
 
 ---
 
-## 🌌 Fun Facts & Random Quotes
-- ☕ Coffee + Code = Life  
-- 🐧 Break Windows just to install Linux  
-- 🤯 Always cooking mindblowing ideas  
-- 🌙 Night owl programmer vibes  
-- 🎭 Mixing creativity + hacking + fun  
+## 🧪 Live Hacker Console
+
 <p align="center">
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=400&color=00ff99&center=true&vCenter=true&multiline=true&width=900&height=80&lines=[INIT]+loading+cyber+process...;[OK]+neon+render+stable;[RUN]+launching+BDC+services..." />
 </p>
 
 ---
 
-## 💬 Visitor Counter
+## 🔮 Quote of the Moment
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahsan-habib&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
 
 ---
 
+## 👁️ Visitor Counter
+
 <p align="center">
-  Made with 💖 by <b>Ahsan Habib</b> | Keep Exploring the Cyber Universe 🌌
+  <img src="https://komarev.com/ghpvc/?username=ahsan-habib&label=VISITORS&color=00ff99&style=for-the-badge" />
 </p>
+
+---
+
+## 🔒 License
+
+This profile README (and repos you link) can include a license.
+For profile README, **MIT** or **CC-BY** is common.
+
+---
+
+<p align="center">
+  ⚡ Crafted by <b>Ahsan Habib</b> — <i>OWNER OF BANGLADESH CYBER 2.0</i><br>
+  👾 Cyber universe unlocked 🚀
+</p>
+```
+
+---
+
