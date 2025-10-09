@@ -3,7 +3,7 @@
 
 <div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:center;">
   <img src="https://media4.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif" alt="matrix-1" style="width:220px;max-width:45vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
-  <img src="https://media3.giphy.com/media/3o6ZsVb3xO2e1Q6Yv6/giphy.gif" alt="matrix-2" style="width:220px;max-width:45vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJkNzBjcGphcDlnbmV4a2VqdWU4ejFxYnAxMHd6cjA3bDF6aXU5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" alt="matrix-2" style="width:220px;max-width:45vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
   <img src="https://media2.giphy.com/media/l0HlQ7LRalY0fF6wY/giphy.gif" alt="matrix-3" style="width:220px;max-width:45vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
   <img src="https://media1.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="matrix-4" style="width:220px;max-width:45vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
 </div>
