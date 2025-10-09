@@ -63,16 +63,8 @@ root@bangladesh-cyber:~# whoami
 
 ---
 
-## 🎵 Cyber Soundtrack
 
-<p align="center">
-  <!-- Replace YOUR_SPOTIFY_ID with your Spotify ID -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00ff99&bar_color_cover=true" />
-</p>
 
----
-
-## 🧪 Live Hacker Console
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=400&color=00ff99&center=true&vCenter=true&multiline=true&width=900&height=80&lines=[BOOT]+Cyber+Matrix+Initializing...;[OK]+Neon+Systems+Online;[RUN]+BDC+Chat+Bot+Launched;[SUCCESS]+Welcome+Agent+Ahsan!" />
@@ -91,7 +83,7 @@ root@bangladesh-cyber:~# whoami
 ## 👁️ Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahsan-habib&label=VISITORS&color=00ff99&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ahmhabib01&label=VISITORS&color=00ff99&style=for-the-badge" />
 </p>
 
 ---
