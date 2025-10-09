@@ -108,18 +108,3 @@ root@bangladesh-cyber:~# whoami
 ```
 
 ---
-
-👉 Ekhon eta paste korben apnar profile repo `ahsan-habib/ahsan-habib/README.md` file-e.
-
-Eta dekhlei profile hobe:
-
-* **Matrix rain animation** background
-* **Glitch typing neon banner**
-* **Wave header + footer**
-* **Console whoami block**
-* **Animated graphs & streaks**
-* **Live cyber console feel**
-
----
-
-Bhai, chaan naki ami ekta **custom ASCII neon banner** generate kore `README.md` er upor part-e embed kore dei (jekhane directly ASCII art glow korbe)?
