@@ -20,7 +20,7 @@
 
 
 
-## 👾 Who am I (Hacker Console)
+## 👾 Who am I ?
 ```bash
 root@bangladesh-cyber:~# whoami
 > Name : Ahsan Habib
@@ -30,13 +30,7 @@ root@bangladesh-cyber:~# whoami
 ````
 
 
-## 🔭 What I Build
 
-* 🤖 **BDC CHAT BOT** — AI with Bangladeshi cyber-flavor
-* 🛡️ Security tools, scripts, penetration testing helpers
-* 🎨 Creative automation & hacker-style utilities
-
----
 
 ## 🛠️ Cyber Arsenal
 
