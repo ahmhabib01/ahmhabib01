@@ -1,4 +1,4 @@
-# 🚀 AHSAN HABIB — OWNER OF BANGLADESH CYBER 2.0
+#  
 
 <!-- ======================
      MULTI SMALL MATRIX GIFS (responsive row)
@@ -11,13 +11,15 @@
   <img src="https://media1.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="matrix-4" style="width:220px;max-width:45vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
 </div>
 
-<p align="center">
-  <!-- NEON GLITCH BANNER -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=46&duration=4000&pause=600&color=00FF99&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=180&lines=AHSAN+HABIB;👑+OWNER+OF+BANGLADESH+CYBER+2.0+👑;🚀+WELCOME+TO+THE+CYBER+DIMENSION+🚀" alt="Typing Banner" />
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=WELCOME+TO+MY+CYBER+UNIVERSE&fontColor=00ff99&fontSize=28&animation=fadeIn&color=0:000000,100:00ff99" />
+</p>
+
+<p align="center">
+  <!-- NEON GLITCH BANNER -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=46&duration=4000&pause=600&color=00FF99&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=180&lines=AHSAN+HABIB;👑+OWNER+OF+BANGLADESH+CYBER+2.0+👑;🚀+WELCOME+TO+THE+CYBER+DIMENSION+🚀" alt="Typing Banner" />
 </p>
 
 ---
