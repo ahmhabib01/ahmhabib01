@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- MATRIX RAIN BACKGROUND -->
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdata-security&psig=AOvVaw3G3cOFmL7OUh3lucDYh7OC&ust=1760107648676000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMitg42ul5ADFQAAAAAdAAAAABAE" alt="matrix-rain" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW55Ym52a2Ryc3E5cWR0bDZhb2ZuNmJycWNsczUwc2FqZGhwOHJ4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n6mEMqAuYOQ8l8qcEE/giphy.gif" alt="matrix-rain" width="100%" />
 </p>
 
 <p align="center">
