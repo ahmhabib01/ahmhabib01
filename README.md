@@ -1,9 +1,6 @@
 #  
 
-<!-- ======================
-     MULTI SMALL MATRIX GIFS (responsive row)
-     Replace any src with your own GIF links if you want
-   ====================== -->
+
 <div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:center;">
   <img src="https://media4.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif" alt="matrix-1" style="width:220px;max-width:45vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
   <img src="https://media3.giphy.com/media/3o6ZsVb3xO2e1Q6Yv6/giphy.gif" alt="matrix-2" style="width:220px;max-width:45vw;border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.6)" />
