@@ -22,7 +22,7 @@
 root@bangladesh-cyber:~# whoami
 > Name : Ahsan Habib
 > Title: OWNER OF BANGLADESH CYBER 2.0
-> Role : Cyber Security Explorer | AI Dev | Creator
+> Role : Cyber Security Explorer |SOC Analyst| AI Dev | Creator
 > Motto: Break limits, Build futures ⚡
 ````
 
