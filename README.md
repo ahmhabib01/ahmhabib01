@@ -40,7 +40,7 @@ root@bangladesh-cyber:~# whoami
 
 ---
 
-## 📊 Cyber Activity
+## 📊 Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahsan-habib&show_icons=true&theme=radical&count_private=true&hide_border=true" />
@@ -56,8 +56,8 @@ root@bangladesh-cyber:~# whoami
   <a href="https://github.com/ahsan-habib/BDC-CHAT-BOT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahsan-habib&repo=BDC-CHAT-BOT&theme=radical" />
   </a>
-  <a href="https://github.com/ahsan-habib/MindBlowingProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahsan-habib&repo=MindBlowingProject&theme=radical" />
+  <a href="https://github.com/ahmhabib01/FB-Random-Old">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmhabib01&repo=FB-Random-Old&theme=radical" />
   </a>
 </p>
 
