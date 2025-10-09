@@ -1,8 +1,5 @@
 
 
-
-# 🚀 AHSAN HABIB — OWNER OF BANGLADESH CYBER 2.0
-
 <p align="center">
   <!-- MATRIX RAIN BACKGROUND -->
   <img src="https://i.imgur.com/3ZQ3ZlT.gif" alt="matrix-rain" width="100%" />
