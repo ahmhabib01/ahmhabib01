@@ -53,8 +53,8 @@ root@bangladesh-cyber:~# whoami
 ## 🎨 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/ahsan-habib/BDC-CHAT-BOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahsan-habib&repo=BDC-CHAT-BOT&theme=radical" />
+  <a href="https://github.com/ahmhabib01/BTC-WALLET-CRACKER">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmhabib01&repo=BTC-WALLET-CRACKER&theme=radical" />
   </a>
   <a href="https://github.com/ahmhabib01/FB-Random-Old">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmhabib01&repo=FB-Random-Old&theme=radical" />
