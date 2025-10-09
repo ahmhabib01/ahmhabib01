@@ -68,7 +68,7 @@ root@bangladesh-cyber:~# whoami
 ## 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=400&color=00ff99&center=true&vCenter=true&multiline=true&width=900&height=80&lines=[BOOT]+Cyber+Matrix+Initializing...;[OK]+Neon+Systems+Online;[RUN]+BDC+Chat+Bot+Launched;[SUCCESS]+Welcome+Agent+Ahsan!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=400&color=00ff99&center=true&vCenter=true&multiline=true&width=900&height=150&lines=[BOOT]+Cyber+Matrix+Initializing...;[OK]+Neon+Systems+Online;[RUN]+BDC+Chat+Bot+Launched;[SUCCESS]+Welcome+Agent+Ahsan!" />
 </p>
 
 ---
