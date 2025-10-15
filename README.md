@@ -40,26 +40,9 @@ root@bangladesh-cyber:~# whoami
 
 ## 📊 Activity
 
-<!-- 🔥 CYBER UNIVERSE STATS SECTION 🔥 -->
-<h2 align="center">
-  ⚡ <span style="color:#00ff99;">Ahsan Habib's Cyber Stats</span> ⚡
-</h2>
-
 <div align="center">
-
-  <!-- Animated Neon Border -->
-  <img src="https://raw.githubusercontent.com/ahmhabib01/ahmhabib01/main/assets/line.gif" width="400">
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ahmhabib01&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff" 
-    alt="GitHub Stats" width="48%">
-  
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ahmhabib01&theme=radical&hide_border=true&background=000000&ring=00ff99&fire=ff0066&currStreakLabel=00ff99" 
-    alt="GitHub Streak" width="48%">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmhabib01&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmhabib01&theme=radical&hide_border=true" />
   <!-- Animated Neon Border -->
   <img src="https://raw.githubusercontent.com/ahmhabib01/ahmhabib01/main/assets/line.gif" width="400">
 
@@ -68,24 +51,17 @@ root@bangladesh-cyber:~# whoami
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmhabib01&theme=radical" width="45%">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmhabib01&theme=radical" width="45%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmhabib01&bg_color=000000&color=00ff99&line=00ffaa&point=ffffff&area=true&hide_border=true" />
+
 
   <br><br>
   <img src="https://raw.githubusercontent.com/ahmhabib01/ahmhabib01/main/assets/hacker.gif" width="200">
-
-  <h3>
-    <span style="color:#00ffcc;">🚀 Welcome to the Cyber Universe of</span>
-    <span style="color:#ff0066;"> Ahsan Habib </span> 👑
-  </h3>
 
   <img src="https://raw.githubusercontent.com/ahmhabib01/ahmhabib01/main/assets/glow-line.gif" width="400">
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmhabib01&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmhabib01&theme=radical&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmhabib01&bg_color=000000&color=00ff99&line=00ffaa&point=ffffff&area=true&hide_border=true" />
-</p>
+
 
 ---
 
