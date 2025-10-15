@@ -53,7 +53,7 @@ root@cyber-hub:~# whoami
   <!-- Row: stats + streak -->
   <div style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=ahmhabib01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d0f12&title_color=00ff99&icon_color=ff66b2" alt="github-stats" style="width:48%;min-width:260px;border-radius:10px;box-shadow:0 12px 40px rgba(0,0,0,0.6)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmhabib0&theme=tokyonight&hide_border=true&background=0d0f12&ring=00ff99&fire=ff66b2" alt="streak" style="width:48%;min-width:260px;border-radius:10px;box-shadow:0 12px 40px rgba(0,0,0,0.6)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmhabib01&theme=tokyonight&hide_border=true&background=0d0f12&ring=00ff99&fire=ff66b2" alt="streak" style="width:48%;min-width:260px;border-radius:10px;box-shadow:0 12px 40px rgba(0,0,0,0.6)" />
   </div>
 
   
