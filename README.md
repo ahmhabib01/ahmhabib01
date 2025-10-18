@@ -103,7 +103,6 @@ root@cyber-hub:~# whoami
 
 ---
 
-## 👁 VISITOR COUNTER (neon badge)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmhabib01&label=VISITORS&color=00ff99&style=for-the-badge" alt="visitors" />
